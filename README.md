@@ -30,3 +30,7 @@ const svg = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="500" h
 
 drawSVG(svg);
 ```
+
+## Related packages
+
+- [joto-svg](https://github.com/NTag/joto-svg): create SVGs with icons, text, charts, for your Joto
