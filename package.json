@@ -1,0 +1,27 @@
+{
+  "name": "joto-api",
+  "version": "1.0.0",
+  "description": "Send jots to your joto.rocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NTag/joto-api.git"
+  },
+  "keywords": [
+    "joto"
+  ],
+  "author": "Basile Bruneau <basile@bruneau.email>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NTag/joto-api/issues"
+  },
+  "homepage": "https://github.com/NTag/joto-api#readme",
+  "dependencies": {
+    "aws-amplify": "^2.3.0",
+    "lodash": "^4.17.20",
+    "node-fetch": "^2.6.1"
+  }
+}
